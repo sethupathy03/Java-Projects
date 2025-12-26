@@ -21,7 +21,7 @@ Custom styled buttons
 
 Desktop GUI using Java AWT
 
-📂 Folder: 
+📂 Folder: Calculator using AWT
 
 🏦 ATM Machine Simulator
 
@@ -35,7 +35,7 @@ Balance checking
 
 Customized UI buttons
 
-📂 Folder: ATM-Machine/
+📂 Folder: ATM using AWT
 
 📝 To-Do List Application
 
@@ -47,7 +47,7 @@ Customized buttons
 
 Real-time task display
 
-📂 Folder: ToDo-List/
+📂 Folder: To-Do-List
 
 
 🛠 Technologies Used
