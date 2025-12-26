@@ -6,7 +6,6 @@ More projects will be added continuously.
 
 📦 Projects Included
 
-Application	          Description
 🧮 Calculator    	    Performs arithmetic operations with custom colored buttons
 🏦 ATM Simulator	    PIN authentication, deposit, withdraw and balance checking
 📝 To-Do List        	Desktop task manager to add, remove and manage daily tasks
